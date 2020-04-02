@@ -2,7 +2,6 @@
   "name": "google-map-react-examples",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://itsmichaeldiego.github.io/google-map-react-examples/",
   "dependencies": {
     "bootstrap": "^4.4.1",
     "google-map-react": "^1.0.0",
