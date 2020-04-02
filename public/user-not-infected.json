@@ -1,0 +1,62 @@
+﻿[
+  {
+	"formatted_address": "GVK One Mall, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.4193105,
+        "lng": 78.4462883,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": false,
+	"id": "JWNJ33qI9CLd6D7hgUFE3adkVdTH4W7f"
+  },
+  {
+	"formatted_address": "Inorbit Mall Cyberabad, Inorbit Mall Road, APIIC Software Layout, Mindspace, Madhapur, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.4343693,
+        "lng": 78.38442,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": false,
+	"id":"5F4GaRGQEQnS4311nMq3mwI6FUkGZP6Y"
+  },
+  {
+	"formatted_address": "Manju Cinema, Sarojini Devi Road, Kalasiguda, Secunderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.4404836,
+        "lng": 78.4914071,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": false,
+	"id":"m25QHKjlKvSnXCWKXqqh3yVgXTIWPyxt"
+  },
+  {
+	"formatted_address": "WIPRO Circle Bus Stop, ISB Road, Financial District, Nanakramguda, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.4263776,
+        "lng": 78.3385597,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": false,
+	"id":"qrwPYkYCRFy5ZxVJ7e5lNaKACQQGl83e"
+  },
+  {
+	"formatted_address": "MGBS BUS STAND DEPOT, National Highway 163, Gowliguda North, Gowliguda, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.3768545,
+        "lng": 78.4791686,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": false,
+	"id":"n0Ad8dYkrt7LUUwT3APZzk38qngvuiXl"
+  }
+]

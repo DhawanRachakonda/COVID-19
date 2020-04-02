@@ -20,22 +20,25 @@ import App from './App';
 // utils
 import registerServiceWorker from './registerServiceWorker';
 
+import {AppProvider} from './components/AppContext';
+import Map from './components/Map';
+import AppTemplate from './components/AppTemplate';
+import AppFilter from './components/AppFilter';
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 const defaultPath = process.env.REACT_APP_BASE_PATH;
 
 ReactDOM.render(
   <Router>
     <App>
-      <Switch>
-        <Route exact path={defaultPath} component={Home} />
-        {/* New examples here */}
-        <Route path={`${defaultPath}default`} component={Main} />
-        <Route path={`${defaultPath}heatmap`} component={Heatmap} />
-        <Route path={`${defaultPath}searchbox`} component={SearchBox} />
-        <Route path={`${defaultPath}autocomplete`} component={Autocomplete} />
-        <Route path={`${defaultPath}marker-info-window`} component={MarkerInfoWindow} />
-        <Route path={`${defaultPath}marker-info-window-gmaps-obj`} component={MarkerInfoWindowGmapsObj} />
-        <Redirect exact from="*" to={defaultPath} />
-      </Switch>
+      <AppProvider>
+        <AppTemplate>
+          <AppFilter />
+          <Map/>
+        </AppTemplate>
+        
+      </AppProvider>
     </App>
   </Router>,
   document.getElementById('root'),

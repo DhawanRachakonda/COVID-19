@@ -1,0 +1,123 @@
+﻿[
+  {
+    "formatted_address": "Honeywell, Road Number 2, Financial District, Nanakramguda, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.41874,
+        "lng": 78.3419527,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": true,
+    "id":"1113d3dd7339f965caae39387dd808a9e877bc2e"
+  },
+  {
+    "formatted_address": "Sai Mitra Residency, Bagh Amberpet, Amberpet, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.3921523,
+        "lng": 78.5100913,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": true,
+    "id":"1113d3dd7339f965caae39387dd808a9e877bc21"
+
+  },
+  {
+    "formatted_address": "Charminar, Charminar Road, Ghansi Bazaar, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.3615636,
+        "lng": 78.4724758,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": true,
+    "id":"1113d3dd7339f965caae39387dd808a9e877bc22"
+  },
+  {
+    "formatted_address": "Osmania Medical College, Turrebaz Khan Road, Troop Bazaar, Koti, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.3822473,
+        "lng": 78.4806686,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": true,
+    "id":"1113d3dd7339f965caae39387dd808a9e877bc23"
+  },
+  {
+    "formatted_address": "Rythu Bazar, Mehdipatnam, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.3949879,
+        "lng": 78.4388539,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": true,
+    "id":"1113d3dd7339f965caae39387dd808a9e877bc34"
+  },
+  {
+    "formatted_address": "Secunderabad Railway Station, Station Road, Regimental Bazaar, Shivaji Nagar, Secunderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.4345194,
+        "lng": 78.4989864,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": true,
+    "id":"1113d3dd7339f965caae39387dd808a9e877bc24"
+  },
+  {
+    "formatted_address": "AMB Cinemas, Gachibowli - Miyapur Road, Forest Dept Colony, Kothaguda, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.4576962,
+        "lng": 78.3622579,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": true,
+    "id":"1113d3dd7339f965caae39387dd808a9e877bc25"
+  },
+  {
+    "formatted_address": "NTR Gardens, NTR Marg, Central Secretariat, Khairtabad, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.4124512,
+        "lng": 78.4666499,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": true,
+    "id":"1113d3dd7339f965caae39387dd808a9e877bc26"
+  },
+  {
+    "formatted_address": "Manjeera Mall, JNTU Road, Kukatpally Housing Board Colony, Kukatpally, Hyderabad, Telangana ",
+    "geometry": {
+      "location": {
+        "lat": 17.4899899,
+        "lng": 78.3907739,
+        "date": "26-03-2020"
+      }
+    },
+    "infected": true,
+    "id":"1113d3dd7339f965caae39387dd808a9e877bc27"
+  },
+  {
+    "formatted_address": "Lb nagar metro station, Shivapuri Colony, L. B. Nagar, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.3494177,
+        "lng": 78.5458833,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": true,
+    "id":"1113d3dd7339f965caae39387dd808a9e877bc28"
+  }
+]

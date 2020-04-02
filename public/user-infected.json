@@ -1,0 +1,182 @@
+﻿[
+  {
+    "formatted_address": "Honeywell, Road Number 2, Financial District, Nanakramguda, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.41874,
+        "lng": 78.3419527,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": false,
+	"id":"W91YxmNw1taHhgmn3QB0Pbl9QVDLuKYa"
+  },
+  {
+    "formatted_address": "Sai Mitra Residency, Bagh Amberpet, Amberpet, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.3921523,
+        "lng": 78.5100913,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": false,
+	"id":"rMy8K954m1fF9wiEUL5tVrgicDGTLD8A"
+  },
+  {
+    "formatted_address": "Charminar, Charminar Road, Ghansi Bazaar, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.3615636,
+        "lng": 78.4724758,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": false,
+	"id":"NGltPgNsnL1bZTCaMN8pHG798VlFreWt"
+  },
+  {
+    "formatted_address": "Osmania Medical College, Turrebaz Khan Road, Troop Bazaar, Koti, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.3822473,
+        "lng": 78.4806686,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": false,
+	"id":"dgVSYZfpBuciQt8b215wv7DFvq3lHukP"
+  },
+  {
+    "formatted_address": "Rythu Bazar, Mehdipatnam, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.3949879,
+        "lng": 78.4388539,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": false,
+	"id":"DGrM4M7qHwFe3RyLyO1AECyOsTBiqly7"
+  },
+  {
+    "formatted_address": "Secunderabad Railway Station, Station Road, Regimental Bazaar, Shivaji Nagar, Secunderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.4345194,
+        "lng": 78.4989864,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": true,
+	"id":"K7fm76E4FfxloEKvoHrn8YU3kIJ32lgE"
+  },
+  {
+    "formatted_address": "AMB Cinemas, Gachibowli - Miyapur Road, Forest Dept Colony, Kothaguda, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.4576962,
+        "lng": 78.3622579,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": false,
+	"id":"nnPpPFWNg2yUkIbZjtf4jJM9wAF3Koj1"
+  },
+  {
+    "formatted_address": "NTR Gardens, NTR Marg, Central Secretariat, Khairtabad, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.4124512,
+        "lng": 78.4666499,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": true,
+	"id":"yqG8mhNaCXsf9uONzOXvBIKEbE263ZUA"
+  },
+  {
+    "formatted_address": "Manjeera Mall, JNTU Road, Kukatpally Housing Board Colony, Kukatpally, Hyderabad, Telangana ",
+    "geometry": {
+      "location": {
+        "lat": 17.4899899,
+        "lng": 78.3907739,
+        "date": "26-03-2020"
+      }
+    },
+    "infected": true,
+	"id":"4HvgRL5K3IJQRuqfcN8ztmpramweJQ2Y"
+  },
+  {
+    "formatted_address": "Lb nagar metro station, Shivapuri Colony, L. B. Nagar, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.3494177,
+        "lng": 78.5458833,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": true,
+	"id":"CVuOLqIJ49pWFhPEJPa2UI5LA4t7lPXY"
+  },
+  {
+    "formatted_address": "Bawarchi Restaurant, RTC Cross Road, Opposite Sandhya Theatre, Jawahar Nagar, Chikkadpally, New Nallakunta, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.4062271,
+        "lng": 78.49551,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": true,
+	"id":"nvEJu3TOITDRa93fW7pONcleeEVFvS1p"
+  },
+  {
+    "formatted_address": "Santosh Sapna Theatre, Chirag Ali Lane, Abids, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.3910293,
+        "lng": 78.473506,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": false,
+	"id":"FFPmc14MP3AegCZDqbFuiuCIJ3FGexYK"
+  },{
+    "formatted_address": "Tolichowki, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.3959084,
+        "lng": 78.4060314,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": false,
+	"id":"R4KdLNkSEwVCXjIvgZNUTqQ68vMy5BBa"
+  },
+  {
+    "formatted_address": "G. Narayanamma Institute of Technology and Science, Shaikpet Road, Ambedkar Nagar, Shaikpet, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.4118461,
+        "lng": 78.396338,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": false,
+	"id":"xQCWQDR7S0iPCkE1Pu0RYQmCY0eSs6Lo"
+  },
+  {
+    "formatted_address": "Telangana Tourism Central Reservation Office, Police Control Room, Hyderabad, Telangana",
+    "geometry": {
+      "location": {
+        "lat": 17.4012945,
+        "lng": 78.4696848,
+        "date": "23-03-2020"
+      }
+    },
+    "infected": false,
+	"id":"sKsBDDqo34WZRse3kRHoG964lJ15fLA4"
+  }
+  
+]

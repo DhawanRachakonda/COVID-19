@@ -4,11 +4,15 @@
   "private": true,
   "homepage": "https://itsmichaeldiego.github.io/google-map-react-examples/",
   "dependencies": {
+    "bootstrap": "^4.4.1",
     "google-map-react": "^1.0.0",
     "lodash.isempty": "^4.4.0",
     "prop-types": "^15.6.1",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "react": "^16.9.0",
+    "react-bootstrap": "^1.0.0",
+    "react-date-picker": "^8.0.0",
+    "react-datepicker": "^2.14.1",
+    "react-dom": "^16.13.1",
     "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.1",
     "styled-components": "^3.2.1"
