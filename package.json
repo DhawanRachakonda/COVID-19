@@ -12,6 +12,7 @@
     "react-date-picker": "^8.0.0",
     "react-datepicker": "^2.14.1",
     "react-dom": "^16.13.1",
+    "react-places-autocomplete": "^7.2.1",
     "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.1",
     "styled-components": "^3.2.1"

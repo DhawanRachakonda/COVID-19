@@ -6,6 +6,9 @@ function AppTemplate({children}) {
         <React.Fragment>
             <Navbar bg="dark" variant="dark" id="app-header">
                 <Navbar.Brand href="#home">COVID-19</Navbar.Brand>
+                <Nav className="mr-auto">
+                    <Nav.Link href="/admin">Admin Page</Nav.Link>
+                </Nav>
             </Navbar>
             <Container>
                 {children}

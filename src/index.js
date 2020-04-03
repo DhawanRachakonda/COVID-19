@@ -2,14 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { Route, Switch, Redirect, BrowserRouter as Router } from 'react-router-dom';
 
-// examples:
-import Home from './Home';
 import Main from './examples/Main';
-import Heatmap from './examples/Heatmap';
-import SearchBox from './examples/Searchbox';
-import Autocomplete from './examples/Autocomplete';
-import MarkerInfoWindow from './examples/MarkerInfoWindow';
-import MarkerInfoWindowGmapsObj from './examples/MarkerInfoWindowGmapsObj';
+import Admin from './components/Admin';
 
 // styles
 import './index.css';
@@ -29,17 +23,28 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const defaultPath = process.env.REACT_APP_BASE_PATH;
 
+const Home = () =>  {
+  return (
+    <React.Fragment>
+      <AppFilter />
+      <Map/>
+    </React.Fragment>
+  )
+}
+
 ReactDOM.render(
   <Router>
-    <App>
-      <AppProvider>
-        <AppTemplate>
-          <AppFilter />
-          <Map/>
-        </AppTemplate>
-        
-      </AppProvider>
-    </App>
+    <AppProvider>
+      <AppTemplate>
+      <Router>
+        <Switch>
+          <Route exact path={"/"} component={Home} />
+          <Route path={`/admin`} component={Admin} />
+          <Redirect exact from="*" to={"/"} />
+        </Switch>
+      </Router>
+    </AppTemplate>
+    </AppProvider>
   </Router>,
   document.getElementById('root'),
 );
